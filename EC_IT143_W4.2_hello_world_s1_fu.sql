@@ -1,0 +1,2 @@
+-- This script defines the question we are answering:
+-- "How many new customers have signed up in the past month?"
